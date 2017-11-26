@@ -1,0 +1,27 @@
+#right_left_side{
+	width: 359px;
+	float: left;
+	/*border-right: grey solid 1px;*/
+}
+
+#right_right_side{
+	width: 359px;
+	float: right;
+	/*border-left: grey solid 1px;*/
+}
+
+#form_left{
+	float: left;
+	margin-left: 5px;
+}
+
+#form_right{
+	float: right;
+	margin-right: 5px;
+}
+
+#form_right_day{
+	float: right;
+	margin-right: 5px;
+	width: 15px;
+}
